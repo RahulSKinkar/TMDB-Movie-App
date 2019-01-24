@@ -1,0 +1,22 @@
+.ant-pagination {
+  color: white;
+  text-align: center;
+  margin-bottom: 70px;
+}
+
+.ant-pagination-item {
+  background: none;
+  border: none;
+  color: #fff;
+}
+
+.ant-pagination-prev .ant-pagination-item-link, .ant-pagination-next .ant-pagination-item-link{
+  background: none;
+  border: none;
+  color: #fff  !important;
+}
+
+.ant-pagination-item-active {
+  border: 1px solid white;
+  background: #754254;
+}

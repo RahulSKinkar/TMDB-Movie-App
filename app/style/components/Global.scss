@@ -1,0 +1,15 @@
+.main, .ant-layout.layout{
+    background-color:$body-color;
+}
+.ant-layout-header  h1{
+  color: white;
+}
+.topbar {
+    /* margin-top: 0.5em !important; */
+
+}
+.ant-layout-footer{
+  background-color: #001529;
+  background:$heading-background;
+  color: white;
+}

@@ -1,0 +1,28 @@
+.ant-card-body {
+	background-color: #8a002f;
+	color: white;
+}
+.ant-card-body p{
+	margin: 0 0  15px 0;
+}
+
+.ant-card-hoverable:hover {
+	box-shadow: 0px 0px 7px 7px rgb(117, 7, 46);
+}
+
+.ant-card-bordered {
+	border: none;
+}
+
+.ant-card-meta-detail {
+	color: white;
+	height: 75px;
+}
+
+.ant-card-meta-title {
+	color: white;
+}
+
+.ant-card-meta-description {
+	color: white;
+}
