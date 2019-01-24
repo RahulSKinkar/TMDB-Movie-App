@@ -1,5 +1,5 @@
 # TMDB-Movie-App
-This is a Movie Listing App ccreated using  [ReactJS](http://facebook.github.io/react/index.html).
+This is a Movie Listing App created using  [ReactJS](http://facebook.github.io/react/index.html).
 
 It uses open [The Movie Database (TMDb) API] (https://www.themoviedb.org/documentation/api) to display movie data.
 
