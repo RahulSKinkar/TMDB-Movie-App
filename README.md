@@ -19,12 +19,12 @@ If you would like to download the code and try it for yourself:
 
 
 ## Features
-* Lists now playing
-* Search movies by genres and ratings
+* Lists Nnow Playing movies list
+* Search movies by Genres 
+* Search movies by Rating
 
 ## Technical Notes
-* Followed [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
-* Used CSS Preprocessor [SASS](http://sass-lang.com/)
-* Used high-quality React components of [Ant Design](https://ant.design/) React UI library
+* Used Professional grade CSS extension language [SASS](http://sass-lang.com/)
+* Used high-quality React components using [Ant Design](https://ant.design/) React UI library
 * Responsive design using [Bootstrap](https://getbootstrap.com/)
 * State management using [React-Redux](https://github.com/reactjs/react-redux)
