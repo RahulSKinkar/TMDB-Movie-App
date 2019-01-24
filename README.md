@@ -11,11 +11,11 @@ node.js is required to get npm.
 
 If you would like to download the code and try it for yourself:
 
-Clone the repo: https://github.com/RahulSKinkar/TMDB-Movie-App.git
-cd TMDB-Movie-App
-Install packages: npm install
-Build project and launch: npm run dev
-Open your browser at: http://localhost:8080
+* Clone the repo: https://github.com/RahulSKinkar/TMDB-Movie-App.git
+* cd TMDB-Movie-App
+* Install packages: npm install
+* Build project and launch: npm run dev
+* Open your browser at: http://localhost:8080
 
 
 ## Features
